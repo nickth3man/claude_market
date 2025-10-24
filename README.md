@@ -66,7 +66,7 @@ Already provided at `.claude-plugin/marketplace.json`:
   "plugins": [
     {
       "name": "pocketflow",
-      "source": ".",
+      "source": "./",
       "description": "PocketFlow Skill packaged as a plugin",
       "version": "0.1.0",
       "category": "skills",
