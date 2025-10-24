@@ -1,0 +1,18 @@
+{
+  "name": "claude_market",
+  "owner": { "name": "nickth3man" },
+  "metadata": {
+    "description": "Claude Code marketplace for PocketFlow and future plugins",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "pocketflow",
+      "source": ".",
+      "description": "PocketFlow Skill packaged as a plugin",
+      "version": "0.1.0",
+      "category": "skills",
+      "keywords": ["pocketflow", "skills", "agents", "rag", "workflow"]
+    }
+  ]
+}

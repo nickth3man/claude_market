@@ -1,0 +1,7 @@
+{
+  "name": "pocketflow",
+  "version": "0.1.0",
+  "description": "PocketFlow Skill, cookbook examples, and templates for graph-based LLM workflows.",
+  "author": { "name": "claude_market" },
+  "keywords": ["skill", "pocketflow", "agents", "rag", "workflow"]
+}
